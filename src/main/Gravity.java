@@ -21,6 +21,8 @@ public class Gravity {
         double speed;
 		double distance;
         double gravity = 9.8;
+		Scanner scanner = new Scanner(System.in);
+
 
 
 
