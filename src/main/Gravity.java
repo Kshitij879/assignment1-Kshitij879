@@ -18,15 +18,7 @@ public class Gravity {
 		 *   c. Calculate the result and print it to the screen.
 		 * */
 		double time;
-		double speed;
-		double distance;
-		double gravity = 9.8;
-		Scanner scanner = new Scanner(System.in);
-		time = scanner.nextDouble();
-		speed = gravity*time;
-		distance = 0.5*(gravity*time*time);
-		System.out.println("The speed of the object at " + time + " seconds after its release is " + speed + " and the distance the object has travelled in the " + time + " seconds after the relase is " + distance);
-		scanner.close();
+
 	}
 	// P.S: Refer to the README.md file for the problem statement, input & output.
 }
