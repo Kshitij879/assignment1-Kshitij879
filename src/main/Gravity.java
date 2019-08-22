@@ -19,6 +19,8 @@ public class Gravity {
 		 * */
 		double time;
         double speed;
+		double distance;
+
 
 
 	}
