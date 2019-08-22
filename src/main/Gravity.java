@@ -18,6 +18,8 @@ public class Gravity {
 		 *   c. Calculate the result and print it to the screen.
 		 * */
 		double time;
+        double speed;
+
 
 	}
 	// P.S: Refer to the README.md file for the problem statement, input & output.
