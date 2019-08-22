@@ -22,6 +22,8 @@ public class Gravity {
 		double distance;
         double gravity = 9.8;
 		Scanner scanner = new Scanner(System.in);
+		time = scanner.nextDouble();
+
 
 
 
